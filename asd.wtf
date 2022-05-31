@@ -1,0 +1,7 @@
+print("Hello world");
+
+print("Bye world!");
+
+if (1 + 2 == 3) {
+  print("1 + 2 is 3");
+}
